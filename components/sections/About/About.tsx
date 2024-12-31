@@ -18,7 +18,7 @@ const About = () => {
                 Hey! I'm  Ankit, I am currenlty doing my Master's in Information Management from University of Illinois at Urbana-Champaign
               </p>
               <p>
-                I did my Bachelors in Electronics and Telecommunication with honours in Artifical Intelligence and Machine Learning from Dwarkadas J. Sanghvi College of Engineering.
+                I did my Bachelors in Electronics and Telecommunication with honours in Artificial Intelligence and Machine Learning from Dwarkadas J. Sanghvi College of Engineering.
               </p>
               <p>
               As I continue to delve deeper into the vast field of data, I am passionate about uncovering insights and driving meaningful decisions through innovative analytics and technology. I am excited to tackle complex challenges, embrace emerging tools and techniques, and contribute to transformative projects that harness the power of data to make a tangible difference.
